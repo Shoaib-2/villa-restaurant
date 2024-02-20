@@ -5,6 +5,7 @@ import {SubHeading} from '../../components'
 import {images} from '../../constants'
 import './Header.css';
 
+// The Header component is responsible for rendering the header section of the page. It includes a heading and an optional subheading. 
 const Header = () => (
   <div className='app__header app__wrapper section__padding' id='home'>
     <div className="app__wrapper_info">
