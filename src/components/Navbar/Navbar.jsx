@@ -29,7 +29,7 @@ const Navbar = () => {
     </ul>
     <div className="app__navbar-login">
       <a href="/" className="p__opensans">
-        Book Table
+        Book a Table
       </a>
     </div>
     <div className="app__navbar-smallscreen">
