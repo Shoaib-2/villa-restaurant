@@ -18,7 +18,7 @@ const Header = () => (
       <button type='button' className='custom__button'>Explore Kitchen</button>
     </div>
     <div className="app_wrapper_img">
-      <img src={images.welcome} alt='header img' />
+      <img src={images.burger} alt='header img' />
     </div>
   </div>
 );

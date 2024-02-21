@@ -56,7 +56,7 @@
     display: none;
 }
 
-.app__navbar-smallscreen_overlay{
+.app__navbar-smallscreen_overlay {
     position: fixed;
     top: 0;
     left: 0;
@@ -96,8 +96,6 @@
         width: 210px;
     }
 }
-
-
 
 /* When the overlay is open, show the navbar links and hide the hamburger icon */
 @media screen and (max-width: 1150px){
