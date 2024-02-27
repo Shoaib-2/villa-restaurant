@@ -30,65 +30,41 @@ const beers = [
     price: '£8.95',
     tags: 'Place Caramel Stout • 7.5%',
   },
-  {
-    title: 'Fruh',
-    price: '£4.75',
-    tags: 'Limon Radler • 2.5%',
-  },
-  // {
-  //   title: 'Augustiner ',
-  //   price: '£5.50',
-  //   tags: 'Edelstoff Helles • 5.6%',
-  // },
-  // {
-  //   title: 'North',
-  //   price: '£6.95',
-  //   tags: 'False Scale IPA • 6.8%',
-  // },
-  // {
-  //   title: 'Schofferhofer',
-  //   price: '£4.75',
-  //   tags: 'Grapefruit Weiss • 2.5%',
-  // },
-  // {
-  //   title: 'Ora Brewing',
-  //   price: '£6.50',
-  //   tags: 'Limoncello IPA • 5%',
-  // },
-  // {
-  //   title: 'Wylam',
-  //   price: '£5.95',
-  //   tags: 'Lush • 4.2%',
-  // },
 ];
 
 const cocktails = [
   // Vermouth
   {
-    title: 'Two Town Down',
-    price: '£8.50',
-    tags: 'US Stout • 7%',
+    title: 'El Bandarra',
+    price: '£24.90/bottle',
+    tags: 'Vermouth • V100CL • 15% ',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Petroni",
+    price: '£26.95/Bottle',
+    tags: 'Vermouth • 100cl • 15%',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Casa Mariol',
+    price: '£22.55/bottle',
+    tags: 'Spanish Vermouth • 100cl • 15%',
   },
-  {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
-  },
+ 
   // Wines
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Chaffey Brothers Pax Aeterna',
+    price: '£5.5 / £6.75 / £26',
+    tags: 'Wine • 13.9% ABV • 75cl',
+  },
+  {
+    title: 'BK Winery Pet Nat 2018',
+    price: '£6.25 / £33',
+    tags: 'Wine • 100cl • 15%',
+  },
+  {
+    title: 'Can Virgili El Cabronet',
+    price: '£4.50 / £6 /£24',
+    tags: 'Wine • 70 cl • 10%',
   },
 ];
 

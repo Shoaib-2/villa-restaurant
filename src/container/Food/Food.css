@@ -40,7 +40,7 @@
     width: 100%;
     height: auto;
     border-radius: 50px;
-    box-shadow:  10px rgba(245, 144, 144, 0.5);
+    box-shadow: 0 0 10px rgba(235, 214, 214, 0.5);
 }
 
 .app__specialMenu-menu_items {

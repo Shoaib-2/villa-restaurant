@@ -8,6 +8,8 @@ import gallery04 from '../assets/gallery04.png';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/gallery03.png';
+import menu2 from '../assets/menuBV.png';
+import doggo from '../assets/doggo.png'
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import burger from '../assets/bgBV.png';
@@ -20,6 +22,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import brandling from '../assets/BVlogo.png'
+import beerCocktail from '../assets/beer-cocktails.png'
 
 export default {
   bg,
@@ -44,4 +47,7 @@ export default {
   sign,
   quote,
   brandling,
+  menu2,
+  doggo,
+  beerCocktail
 };
