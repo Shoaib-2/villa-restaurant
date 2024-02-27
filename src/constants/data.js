@@ -1,38 +1,73 @@
-import images from './images';
-
-const wines = [
+const beers = [
+  // beers and Ciders
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'The River Brew Co.',
+    price: '£7.75',
+    tags: 'Doubleheeder DIPA • 8%',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'LHG',
+    price: '£6.75',
+    tags: 'Raspberry Rhubarb Sour • 5.5%',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Two Town Down',
+    price: '£8.50',
+    tags: 'US Stout • 7%',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Canopy Brewing',
+    price: '£5.95',
+    tags: 'The Sympathetic Ear • 4%',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Amundsen',
+    price: '£8.75',
+    tags: 'Berry Citrus Smoothie • 6.5%',
   },
+  {
+    title: 'Almasty',
+    price: '£8.95',
+    tags: 'Place Caramel Stout • 7.5%',
+  },
+  {
+    title: 'Fruh',
+    price: '£4.75',
+    tags: 'Limon Radler • 2.5%',
+  },
+  // {
+  //   title: 'Augustiner ',
+  //   price: '£5.50',
+  //   tags: 'Edelstoff Helles • 5.6%',
+  // },
+  // {
+  //   title: 'North',
+  //   price: '£6.95',
+  //   tags: 'False Scale IPA • 6.8%',
+  // },
+  // {
+  //   title: 'Schofferhofer',
+  //   price: '£4.75',
+  //   tags: 'Grapefruit Weiss • 2.5%',
+  // },
+  // {
+  //   title: 'Ora Brewing',
+  //   price: '£6.50',
+  //   tags: 'Limoncello IPA • 5%',
+  // },
+  // {
+  //   title: 'Wylam',
+  //   price: '£5.95',
+  //   tags: 'Lush • 4.2%',
+  // },
 ];
 
 const cocktails = [
+  // Vermouth
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Two Town Down',
+    price: '£8.50',
+    tags: 'US Stout • 7%',
   },
   {
     title: "Dark 'N' Stormy",
@@ -49,6 +84,7 @@ const cocktails = [
     price: '$31',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
+  // Wines
   {
     title: 'Negroni',
     price: '$26',
@@ -56,27 +92,4 @@ const cocktails = [
   },
 ];
 
-const awards = [
-  {
-    imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
-  },
-  {
-    imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
-  },
-  {
-    imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
-  },
-  {
-    imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
-  },
-];
-
-export default { wines, cocktails, awards };
+export default { beers, cocktails};
