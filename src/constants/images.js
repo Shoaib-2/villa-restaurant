@@ -23,6 +23,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import brandling from '../assets/BVlogo.png'
 import beerCocktail from '../assets/beer-cocktails.png'
+import footerLogo from '../assets/footerlogo.png'
 
 export default {
   bg,
@@ -49,5 +50,6 @@ export default {
   brandling,
   menu2,
   doggo,
-  beerCocktail
+  beerCocktail,
+  footerLogo
 };
