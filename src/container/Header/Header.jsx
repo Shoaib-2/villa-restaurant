@@ -17,6 +17,7 @@ const Header = () => (
       <p className='p__cormorant'style={{margin: '2rem 0'}}>Famous for its ridiculous burgers & range of cask beers, <br />the Brandling Villa is hopefully what you'd want in a contemporary, but traditionally anchored local boozer. <br />Homemade scranners, dog & kid friendly, it hosts live music regularly, comedy gigs, film seasons, retro gaming events, nationally famous festivals & of course, a pub quiz. <br /> We hope you like it.</p>
       <button type='button' className='custom__button'>Explore Kitchen</button>
     </div>
+    
     <div className="app_wrapper_img">
       <img src={images.burger} alt='header img' />
     </div>
