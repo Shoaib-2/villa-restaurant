@@ -6,7 +6,7 @@ import data2 from "../../constants/data2";
 import './Food.css'
 
 const Food = () => (
-    <div className='app__specialMenu flex__center section__padding' id='menu'>
+    <div className='app__specialMenu flex__center section__padding' id='menu2'>
     <div className="app__specialMenu-title">
       <SubHeading title="Jaw-Dropping Scran!" />
       <h1 className="headtext__cormorant">Pub Eating for you, your mam & your dog!</h1>
@@ -36,7 +36,9 @@ const Food = () => (
       </div>  
     </div>
         <div style={{marginTop: '15px'}}>
-            <button type="button" className='custom__button'>View More</button>
+            <button type="button" className='custom__button'>
+              <a href="#menu2">View More</a>
+            </button>
         </div>
   </div>
 );
