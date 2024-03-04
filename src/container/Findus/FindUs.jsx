@@ -22,7 +22,7 @@ const FindUs = () => (
     </div>
     {/* Right side image div */}
     <div className="app__wrapper_img">
-      <img src={images.findus} alt="findus"  />
+      <img src={images.findus} alt="findus"  style={{borderRadius: "30px", width: "100%", boxShadow: "0 0 10px rgba(235, 214, 214, 0.5)"}}/>
     </div>
   </div>
 );
