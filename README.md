@@ -1,4 +1,5 @@
-Villa Restaurant Using React
+VILLA RESTAURANT USING REACT
+
 This repository contains the source code for a pub static website built using React. This website is designed for a client who wanted a simple yet elegant online presence for their pub.
 
 Features-
