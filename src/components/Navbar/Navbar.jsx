@@ -20,11 +20,11 @@ const Navbar = () => {
         <a href="#home">Home</a>
       </li>
       <li className="p__opensans">
-        <a href="#kitchen">Kitchen</a>
+        <a href="#menu2">Kitchen</a>
       </li>
       {/* Booze has 2  subcategories, so I need to make it a dropdown menu. */}
       <li className="p__opensans">
-        <a href="#booze">Booze</a>
+        <a href="#menu">Booze</a>
       </li>
     </ul>
     <div className="app__navbar-login">
@@ -49,10 +49,10 @@ const Navbar = () => {
               <a href="#home">Home</a>
             </li>
             <li className="p__opensans">
-              <a href="#kitchen">Kitchen</a>
+              <a href="#menu2">Kitchen</a>
             </li>
             <li className="p__opensans">
-              <a href="#booze">Booze</a>
+              <a href="#menu">Booze</a>
             </li>
           </ul>
         </div>

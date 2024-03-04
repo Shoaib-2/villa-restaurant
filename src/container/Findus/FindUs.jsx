@@ -18,7 +18,9 @@ const FindUs = () => (
             <p className="cormorant" style={{color: "#DCCA87", margin: "2rem 0"}}>Opening Hours</p>
             <p className="p__opensans">Mon - Sun: 12:00pm - 11:00pm</p>
       </div>
-      <button className='custom__button' style={{marginTop: "2rem"}}>Visit Us</button>
+      <button className='custom__button' style={{marginTop: "2rem"}}>
+        <a href="https://www.instagram.com/punchbowlncl">Visit Us</a>
+      </button>
     </div>
     {/* Right side image div */}
     <div className="app__wrapper_img">
