@@ -42,7 +42,7 @@ const Gallery = () => {
           that'll stick like glue in ya heart.
         </p>
         <button type="button" className="custom__button">
-          <a href="https://www.instagram.com/punchbowlncl">View More</a>
+          <a href="https://www.instagram.com/brandlingvilla/">View More</a>
         </button>
       </div>
 

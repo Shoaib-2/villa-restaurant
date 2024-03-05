@@ -34,21 +34,21 @@ const Footer = () => (
         {/* For social media links */}
         <div className="app__footer-links_icons">
           <a
-            href="https://www.facebook.com/punchbowlncl"
+            href="https://www.facebook.com/thebrandlingvilla"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FiFacebook />
           </a>
           <a
-            href="https://twitter.com/thepunchbowlncl"
+            href="https://twitter.com/brandlingvilla"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FiTwitter />
           </a>
           <a
-            href="https://www.instagram.com/punchbowlncl"
+            href="https://www.instagram.com/brandlingvilla/"
             target="_blank"
             rel="noopener noreferrer"
           >

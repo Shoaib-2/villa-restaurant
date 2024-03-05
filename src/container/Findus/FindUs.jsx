@@ -19,7 +19,7 @@ const FindUs = () => (
             <p className="p__opensans">Mon - Sun: 12:00pm - 11:00pm</p>
       </div>
       <button className='custom__button' style={{marginTop: "2rem"}}>
-        <a href="https://www.instagram.com/punchbowlncl">Visit Us</a>
+        <a href="https://www.instagram.com/brandlingvilla/">Visit Us</a>
       </button>
     </div>
     {/* Right side image div */}
